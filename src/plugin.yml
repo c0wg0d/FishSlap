@@ -1,0 +1,9 @@
+name: FishSlap
+version: 1.0
+author: cheracc
+main: com.sandlotminecraft.FishSlap.FishSlap
+website: http://www.sandlotminecraft.com
+commands:
+  points:
+    description: Shows player points and top five high scores.
+    usage: /points

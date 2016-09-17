@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FishSlap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FishSlap_jar</output-path>
+    <root id="archive" name="FishSlap.jar">
+      <element id="module-output" name="FishSlap" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-1.10.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.10.2-R0.1-20160911.060702-70.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
